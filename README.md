@@ -6,6 +6,7 @@ CC0 = No copyright, 100% free to use for any purpose even commercially. [Learn m
 ## 3D models
 
 - [The Base Mesh](https://thebasemesh.com/) - 900+ 3D models that are CC0
+  - [Base Meshes](https://github.com/M3-org/base-meshes) - The Base Mesh converted to glTF + HTML asset pallet
 - [200 CC0 Avatars](https://www.100avatars.com/) - 200 CC0 VRM + FBX avatars
 - [Smithsonian Open Access](https://3d.si.edu/cc0?edan_q=*:*&edan_fq[]=metadata_usage:%22CC0%22) - public domain 3D models from Smithsonian Museum
 - [Polyhaven](https://polyhaven.com/) - 100% CC0 textures, HDRIs, and 3D models
