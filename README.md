@@ -19,8 +19,9 @@ CC0 = No copyright, 100% free to use for any purpose even commercially. [Learn m
 
 ## Textures
 
-- [ambientcg](https://ambientcg.com/) - 
-- [Texture Ninja](https://texture.ninja/)
+- [ambientcg](https://ambientcg.com/) - 1500+ free PBR materials
+  - [LilySurfaceScraper](https://github.com/eliemichel/LilySurfaceScraper) - Awesome blender plugin for using CC0 materials
+- [Texture Ninja](https://texture.ninja/) - 5000+ CC0 textures
 - [Wikimedia commons](https://commons.wikimedia.org/w/index.php?search=&title=Special:MediaSearch&go=Go&type=image&haslicense=unrestricted) - Over 90M free files
 - [Openclipart](https://openclipart.org/) - Since 2004, over 170k free to use clipart
 
@@ -29,17 +30,19 @@ CC0 = No copyright, 100% free to use for any purpose even commercially. [Learn m
 - [freesound](https://freesound.org/search/?q=&f=%20license:%22Creative+Commons+0%22) - Creative Commons 0 on freesound.org
 - [Free Music Archive](https://freemusicarchive.org/search?adv=1&music-filter-public-domain=1) - Search 5400+ public domain songs on FMA
 
-## Resources
-
-- https://kbrecordzz.com/cc0/
-
 
 ---
 
 ## To-do
 
-- [ ] Add descriptions
-- [ ] Add more categories
-  - [ ] Sound
-  - [ ] Images
+- [x] Add descriptions
+- [x] Add more categories
+  - [x] Sound
+  - [x] Images
 - [ ] Add more effort
+
+---
+
+## Contributing
+
+Make suggestions here: https://github.com/madjin/awesome-cc0/issues/1 or simply make a pull request, thanks!
