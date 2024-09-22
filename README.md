@@ -7,7 +7,7 @@ CC0 = No copyright, 100% free to use for any purpose even commercially. [Learn m
 
 - [The Base Mesh](https://thebasemesh.com/) - 900+ 3D models that are CC0
   - [Base Meshes](https://github.com/M3-org/base-meshes) - Base meshes converted to glTF with HTML asset pallet
-- [200 CC0 Avatars](https://www.100avatars.com/) - 200 CC0 VRM + FBX avatars
+- [300 CC0 Avatars](https://github.com/madjin/100avatars) - 300 CC0 VRM + FBX avatars
 - [Smithsonian Open Access](https://3d.si.edu/cc0?edan_q=*:*&edan_fq[]=metadata_usage:%22CC0%22) - public domain 3D models from Smithsonian Museum
 - [Polyhaven](https://polyhaven.com/) - 100% CC0 textures, HDRIs, and 3D models
 - [Retro3D assets](https://github.com/M3-org/retro3d-assets) - PSX style low poly models
@@ -35,6 +35,7 @@ CC0 = No copyright, 100% free to use for any purpose even commercially. [Learn m
 
 - [freesound](https://freesound.org/search/?q=&f=%20license:%22Creative+Commons+0%22) - Note: You have to search specifically for CC0
 - [Free Music Archive](https://freemusicarchive.org/search?adv=1&music-filter-public-domain=1) - Search 5400+ public domain songs on FMA
+- [Musopen](https://musopen.org/) Search royalty free music, sheet music, and textbooks
 
 ## ETC
 
@@ -43,9 +44,11 @@ CC0 = No copyright, 100% free to use for any purpose even commercially. [Learn m
 - [Internet Archive Public Domain](https://archive.org/search?query=date%3A%5B*+TO+1927%5D&and%5B%5D=year%3A%5B0+TO+1927%5D) - Over 7M works of text, images, audio, movies up till 1927
 - [Project Gutenberg](https://www.gutenberg.org/) - Library of over 70,000 free eBooks
 - [Openverse](https://openverse.org/) - Explore more than 700 million creative works, filter by license
+- [Thingiverse CC0 filter](https://www.thingiverse.com/search?type=things&page=1&q=cc0&license=pd0) - CC0 assets, mainly for 3D printing
 
 ## Resources
 
+- [Creative commons search portal](https://search.creativecommons.org/) - Find CC0 content across multiple sources
 - [Awesome Blender](https://github.com/agmmnn/awesome-blender) - curated list of awesome Blender addons, tools, tutorials
 - [The Public Domain Review](https://publicdomainreview.org/guide-to-finding-interesting-public-domain-works-online/) - Guide to finding public domain works online
 
