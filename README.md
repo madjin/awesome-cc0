@@ -29,6 +29,7 @@ CC0 = No copyright, 100% free to use for any purpose even commercially. [Learn m
 - [Texture Ninja](https://texture.ninja/) - 5000+ CC0 textures
 - [Wikimedia commons](https://commons.wikimedia.org/w/index.php?search=&title=Special:MediaSearch&go=Go&type=image&haslicense=unrestricted) - Over 90M free files
 - [Openclipart](https://openclipart.org/) - Since 2004, over 170k free to use clipart
+- [CC0 Texture Space](https://cc0texture.space/) 1000+ CC0 textures
 
 
 ## Sound
