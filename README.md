@@ -20,7 +20,7 @@ CC0 = No copyright, 100% free to use for any purpose even commercially. [Learn m
 - [Blend Swap](https://www.blendswap.com/search?keyword=+&blendLicense=CC-0&renderEngine=&blenderVersion=) - Search for blender files that have CC0 license
 - [3D Models CC0](https://www.3dmodelscc0.com/) - Free 3D Models
 - [Game Assets Garden](https://www.gameassetsgarden.com/) - Royalty-free, no attribution or signup required game assets
-- [Gobkit Free 3D Assets](https://github.com/ariescar0326-sketch/gobkit-free-assets) - 60 CC0 rigged & animated low-poly GLB game assets (monsters, animals, nature) + live API
+- [Gobkit](https://gobkit.com/freebies) - 69 rigged & animated low-poly GLB game assets (28 characters, 41 nature props). No account, no API key; JSON manifest at /api/free.
 
 ## Textures
 
