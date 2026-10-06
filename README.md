@@ -36,6 +36,7 @@ CC0 = No copyright, 100% free to use for any purpose even commercially. [Learn m
 - [freesound](https://freesound.org/search/?q=&f=%20license:%22Creative+Commons+0%22) - Note: You have to search specifically for CC0
 - [Free Music Archive](https://freemusicarchive.org/search?adv=1&music-filter-public-domain=1) - Search 5400+ public domain songs on FMA
 - [Musopen](https://musopen.org/) Search royalty free music, sheet music, and textbooks
+- [AERIS MUSIC CC0 tracks](https://github.com/farmmer938-lgtm/aeris-cc0-music) - 5 original instrumental tracks released under CC0, with the license text in the repo and direct downloads
 
 ## ETC
 
