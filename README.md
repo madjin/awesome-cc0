@@ -36,6 +36,7 @@ CC0 = No copyright, 100% free to use for any purpose even commercially. [Learn m
 - [freesound](https://freesound.org/search/?q=&f=%20license:%22Creative+Commons+0%22) - Note: You have to search specifically for CC0
 - [Free Music Archive](https://freemusicarchive.org/search?adv=1&music-filter-public-domain=1) - Search 5400+ public domain songs on FMA
 - [Musopen](https://musopen.org/) Search royalty free music, sheet music, and textbooks
+- [SFXMint](https://sfxmint.com/) - 10,300+ free CC0 1.0 sound effects for games, apps and videos (AI-generated or synthesized by SFXMint)
 
 ## ETC
 
