@@ -20,6 +20,7 @@ CC0 = No copyright, 100% free to use for any purpose even commercially. [Learn m
 - [Blend Swap](https://www.blendswap.com/search?keyword=+&blendLicense=CC-0&renderEngine=&blenderVersion=) - Search for blender files that have CC0 license
 - [3D Models CC0](https://www.3dmodelscc0.com/) - Free 3D Models
 - [Game Assets Garden](https://www.gameassetsgarden.com/) - Royalty-free, no attribution or signup required game assets
+- [Vuena free CC0 packs](https://github.com/Vuena/free-game-assets-mega-starter-cc0) - 76 game-ready GLB models (props, characters, animals, vehicles), 14 of them rigged and animated
 
 ## Textures
 
