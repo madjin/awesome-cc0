@@ -20,6 +20,7 @@ CC0 = No copyright, 100% free to use for any purpose even commercially. [Learn m
 - [Blend Swap](https://www.blendswap.com/search?keyword=+&blendLicense=CC-0&renderEngine=&blenderVersion=) - Search for blender files that have CC0 license
 - [3D Models CC0](https://www.3dmodelscc0.com/) - Free 3D Models
 - [Game Assets Garden](https://www.gameassetsgarden.com/) - Royalty-free, no attribution or signup required game assets
+- [Polinket](https://oto-nari.com/polinket/) - 2,382 AI-generated low-poly 3D models (GLB) with tag search and an API
 
 ## Textures
 
